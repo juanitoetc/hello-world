@@ -10,3 +10,7 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 -------------------
 Testing push and commit from new PC
 -------------------
+
+---------------------
+Add test for docker
+--------------------
